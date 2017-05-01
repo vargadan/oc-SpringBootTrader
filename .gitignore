@@ -1,0 +1,8 @@
+.classpath
+.project
+*.prefs
+quotes-service/bin/
+*/bin/
+**/.DS_Store
+quotes-service/bin/
+quotes-service/bin/*
